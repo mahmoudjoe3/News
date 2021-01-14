@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NEWS</string>
+    <string name="no_internet_connection">No Internet</string>
+    <string name="no_posts_found">No News</string>
+    <string name="filter">Filter</string>
+    <string name="back">Back</string>
+    <string name="exit">Exit</string>
+    <string name="filter_data_based_on">Filter Data Based On</string>
+    <string name="limit">Limit</string>
+    <string name="order_by">Order By:</string>
+    <string-array name="dialog_entary">
+        <item>newest</item>
+        <item>oldest</item>
+        <item>relevance</item>
+    </string-array>
+</resources>
